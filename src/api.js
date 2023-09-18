@@ -1,6 +1,6 @@
 import axios from "axios";
-const login = "antilaman3113@gmail.com";
-const password = "181e9f1df0195a55";
+const login = "videogeniusai@gmail.com";
+const password = "a70dc93893c3f016";
 
 export async function getLighthouseReport(url) {
   const categoryArr = [];
